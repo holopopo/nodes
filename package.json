@@ -1,0 +1,9 @@
+{
+  "author":"****",
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "censor words",
+  "main": "censortext",
+  "engines": {
+    "node":"*"
+  }}
